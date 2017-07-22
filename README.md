@@ -1,4 +1,4 @@
-# neteasecloudmusic-vue2
+# neteasecloudmusic-vue2[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/MistySky/neteasecloudmusic-vue2)
 
 A Vue.js project of netease cloud music mobile version
 
